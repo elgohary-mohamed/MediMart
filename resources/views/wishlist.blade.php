@@ -5,9 +5,11 @@
 
 
 
->
+<span
+        style="position: relative;left: 10rem;text-decoration: none;font-style: normal;font-family: sans-serif;font-size: 13px;line-height: 20px;letter-spacing: 0%;font-weight: 600;margin-top: 2.5px;">
+ <img src="{{ asset('img/right-arrow.png') }}" alt="" style="width: 10px;height: 10px;">Wishlist
+</span>
 
-Wishlist
 
 @endsection
     <table  style="width: 100%;">
