@@ -99,7 +99,7 @@ php artisan serve
 ![Login](screenshots/login.png)
 
 ### 📂 Categories
-![Categories](screenshots/categories.png)
+![Categories](screenshots/categories.png.png)
 
 ### ➕ Add Product
 ![Add Product](screenshots/add-product.png)
