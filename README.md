@@ -81,40 +81,40 @@ php artisan serve
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](screenshots/home-page.png.categories.png.png)
+![Home](screenshots/home-page.png.png)
 
 ### 🔍 Search
-![Search](screenshots/search.png.categories.png.png)
+![Search](screenshots/search.png.png)
 
 ### 🛒 Shopping Cart
-![Cart](screenshots/cart.png.categories.png.png)
+![Cart](screenshots/cart.png.png)
 
 ### ❤️ Wishlist
-![Wishlist](screenshots/wishlist.png.categories.png.png)
+![Wishlist](screenshots/wishlist.png.png)
 
 ### 📝 Register
-![Register](screenshots/register.png.categories.png.png)
+![Register](screenshots/register.png.png)
 
 ### 🔑 Login
-![Login](screenshots/login.png.categories.png.png)
+![Login](screenshots/login.png.png)
 
 ### 📂 Categories
 ![Categories](screenshots/categories.png.png)
 
 ### ➕ Add Product
-![Add Product](screenshots/add-product.png.categories.png.png)
+![Add Product](screenshots/add-product.png.png)
 
 ### ➕ Add Category
-![Add Category](screenshots/add-category.png.categories.png.png)
+![Add Category](screenshots/add-category.png.png)
 
 ### ➕ Add Brand
-![Add Brand](screenshots/add-brand.png.categories.png.png)
+![Add Brand](screenshots/add-brand.png.png)
 
 ### ➕ Add Subcategory
-![Add Subcategory](screenshots/add-subcategory.png.categories.png.png)
+![Add Subcategory](screenshots/add-subcategory.png.png)
 
 ### 🎁 Offers
-![Offers](screenshots/offers-page.png.categories.png.png)
+![Offers](screenshots/offers-page.png.png)
 ---
 
 ## 👨‍💻 Author
