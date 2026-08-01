@@ -81,7 +81,7 @@ php artisan serve
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](screenshots/home.png)
+![Home](screenshots/home-page.png)
 
 ### 🔍 Search
 ![Search](screenshots/search.png)
@@ -114,7 +114,7 @@ php artisan serve
 ![Add Subcategory](screenshots/add-subcategory.png)
 
 ### 🎁 Offers
-![Offers](screenshots/offers.png)
+![Offers](screenshots/offers-page.png)
 ---
 
 ## 👨‍💻 Author
